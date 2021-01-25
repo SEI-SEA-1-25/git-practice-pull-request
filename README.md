@@ -1,2 +1,2 @@
-# git-practice-pull-request
+# yet-another-git-practice-pull-request
 workflow for creating a pull request and submitting homework
